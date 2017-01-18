@@ -1,0 +1,1 @@
+[12:18:49:139] [WARN] - org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(ClassPathMapperScanner.java:167) - No MyBatis mapper was found in '[com.stock.common]' package. Please check your configuration.
